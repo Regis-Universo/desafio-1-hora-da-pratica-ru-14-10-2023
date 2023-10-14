@@ -3,7 +3,7 @@
 // 1. Mostre um alerta com a mensagem
 // "Boas vindas ao nosso site!
 
-alert ('Boas vindas ao nosso site!!!');
+alert ('Boas vindas ao Desafio da Alura!!!');
 
 
 // 2. Declare uma variável chamada nome e
@@ -67,4 +67,6 @@ idade = prompt ('Por favor, digite a sua idade: ');
 
 if ( idade >= 18) {
     alert ('Pode tirar a habilitação!');
-} 
+} else {
+    alert ('Você não pode tirar a habilitação!');
+}
